@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Clone",
+  "description": "A complete, fully functional Flappy Bird clone built with HTML5 Canvas primitives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
